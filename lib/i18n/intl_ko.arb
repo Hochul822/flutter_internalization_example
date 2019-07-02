@@ -1,0 +1,14 @@
+{
+  "@@last_modified": "2019-07-02T08:23:30.820815",
+  "widgetMessage": "위젯이에요",
+  "@widgetMessage": {
+    "description": "Explains that we will not proceed further until the user presses a key",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "앱 이름입니다.",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
